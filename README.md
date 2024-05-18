@@ -1,7 +1,3 @@
-Certainly! Below is a sample README file for the project:
-
----
-
 # Chatwith Database POC
 
 ## Overview
@@ -51,5 +47,3 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
